@@ -1,0 +1,5 @@
+ftp.mayan.cn
+?
+
+Username gjxylab
+password:student
